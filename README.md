@@ -1,0 +1,9 @@
+# PPA
+
+## Install Software from this PPA
+
+```
+curl -s --compressed -L "https://recon-tools.github.io/ppa/debian/KEY.gpg" | sudo apt-key add -
+sudo curl -s --compressed -L -o /etc/apt/sources.list.d/recon_tools.list "https://recon-tools/ppa/debian/recon_tools.list"
+sudo apt update
+```

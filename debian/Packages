@@ -1,0 +1,13 @@
+Package: domain-recon
+Version: 1.0.0
+Architecture: amd64
+Essential: no
+Maintainer: Ervin Szilagyi
+Filename: ./domain-recon_1.0.0_amd64.deb
+Size: 2692508
+MD5sum: ee6e2157298a3fd08cf5f9e2dd7119d0
+SHA1: ecafb3654a676eb38726322fce98407d4eab7c42
+SHA256: 921de36cb2fe4dc516a499474868f45fa05aba0d43f5582aacc3038050934c31
+Priority: optional
+Description: Extract domains and subdomains from certificates.
+
